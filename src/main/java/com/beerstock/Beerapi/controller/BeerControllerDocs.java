@@ -1,4 +1,4 @@
 package com.beerstock.Beerapi.controller;
 
-public class BeerControllerDocs {
+public interface BeerControllerDocs {
 }
